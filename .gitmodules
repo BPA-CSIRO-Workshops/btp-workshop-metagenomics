@@ -1,3 +1,6 @@
 [submodule "style"]
 	path = style
 	url = https://github.com/BPA-CSIRO-Workshops/btp-handout-style.git
+[submodule "050_ngs-qc"]
+	path = 050_ngs-qc
+	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-qc.git
