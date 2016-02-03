@@ -4,3 +4,18 @@
 [submodule "050_ngs-qc"]
 	path = 050_ngs-qc
 	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-qc.git
+[submodule "060_tax"]
+	path = 060_tax
+	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-tax.git
+[submodule "070_vis"]
+	path = 070_vis
+	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-vis.git
+[submodule "080_wga"]
+	path = 080_wga
+	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-wga.git
+[submodule "090_fda"]
+	path = 090_fda
+	url = https://github.com/BPA-CSIRO-Workshops/metagenomics-module-fda.git
+[submodule "orchestration"]
+	path = orchestration
+	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration-metagenomics.git
